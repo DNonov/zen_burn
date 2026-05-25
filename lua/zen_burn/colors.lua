@@ -65,7 +65,9 @@ colors.get_colors = function()
 
             -- vscBlue = '#6c6e75',
             -- vscBlue = '#857555',
-            vscBlue = '#92B9BE',
+            -- vscBlue = '#92B9BE',
+            vscBlue = "#9BA2B5",
+
             -- vscBlue = '#5b6e5d',
             vscLightBlue = '#ba9a8a',
             vscMediumBlue = '#ba9a8a',
@@ -82,14 +84,17 @@ colors.get_colors = function()
             -- vscBlueGreen = '#C7C99D',
             -- vscBlueGreen = '#807e6a', casey brown
             -- vscBlueGreen = '#8c8b7c', -- new
-            vscBlueGreen = '#A6C8A1',
+            vscBlueGreen = '#ba9a8a',
             -- vscDarkYellow = '#70807e',
             -- vscDarkYellow = '#5b6e5d',
-            vscDarkYellow = '#cbcf95',
+            -- vscDarkYellow = '#cbcf95',
+            vscDarkYellow    = "#C7C99D",
+
             vscYellowOrange = '#8555d5',
             vscYellow = '#ba9a8a',
             -- Green
-            vscGreen = '#A6C8A1',
+            -- vscGreen = '#A6C8A1',
+            vscGreen = '#93a38b',
             -- Red
             -- vscRed = '#8c4f4d',
             -- vscRed = '#8c4f4d',
@@ -104,6 +109,7 @@ colors.get_colors = function()
             vscLightGreen = '#A6C8A1',
             vscLightRed = '#D16969',
             vscPink = '#A6C8A1',
+            pink = '#C586C0',
         }
     else
         mycolors = {
